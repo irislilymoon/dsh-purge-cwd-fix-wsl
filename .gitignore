@@ -1,0 +1,11 @@
+node_modules/
+backups/
+*.log
+*.bak
+*.new
+*.restore
+.DS_Store
+.env
+.credentials*
+sessions/
+storages/
