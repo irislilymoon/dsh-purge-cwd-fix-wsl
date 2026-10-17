@@ -1107,7 +1107,7 @@ node scripts/apply.mjs
 ### Credits
 
 - 上游插件：[dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)（MIT）；
-- 上游修复与 `{{cwd}}`/registry 补丁：dsh-purge-cwd-fix contributors（MIT）；
+- 上游修复与 `{{cwd}}`/registry 补丁：[dsh-purge-cwd-fix contributors](https://github.com/irislilymoon/dsh-purge-cwd-fix)（MIT）；
 - 本仓库：WSL/rc.2 启动与 rewind 兼容补丁、脚本、文档，MIT。
 
 本仓库是**非官方兼容性修复**，与 DeepSeek 无关；不重新分发 dsh、
